@@ -1,3 +1,6 @@
+# laravel
+## Módulo 8: Projeto Api do DevBarber
+
 # Requisitos globais
 ## composer global require laravel/installer (instalador do laravel)
 ## laravel --version
